@@ -1,4 +1,4 @@
-# Update time: 2023-12-29 19:53:47
+# Update time: 2023-12-29 20:27:54
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -48,162 +48,163 @@
 # 每12小时同步一次、如有误杀、请手动解除
 
           Code
+            prefetch-on-mouseover
+              Sign up
+      stars
       Manage cookies
-          Issues
-      >
-      <button
-          hidden
-                      commit
-        Automate any workflow
-          forks
-    Download ZIP
-    <div>
-        Provide feedback
-        Search
-      <span>
-  <div
-        Manage code changes
-        Saved searches
-    Open with GitHub Desktop
-              Search syntax tips
-    You can’t perform that action at this time.
-                <ul
-        <div
-                Please
-          Pull requests
-          Report repository
-<tab-container>
-          stars
-        No packages published <br>
-        Use Git or checkout with SVN using the web URL.
                 to use Codespaces.
-                  "
-        Host and manage packages
       Do not share my personal information
           Security
-        Find and fix vulnerabilities
+                      commit
+          >
+          Sign in
           Latest
+    data-issue-and-pr-hovercards-enabled
       Work fast with our official CLI.
-        >
+    Download ZIP
+<html
+  <head>
       forks
-          <div
-  <details
-      <div>
-            HTTPS
-          Insights
-        Write better code with AI
+    <div>
+          Star
+    data-discussion-hovercards-enabled
+      <span>
+        Fund open source developers
     Releases
     Failed to load latest commit information.
+      watching
         Plan and track work
         o0HalfLife0o
-        Instant dev environments
-            GitHub CLI
-      <div
+        Manage code changes
+    Open with GitHub Desktop
+      DevSecOps
+              Sign in
+    data-commit-hovercards-enabled
+    You can’t perform that action at this time.
+        Readme
   <cookie-consent-link>
         + 1 release
-        Collaborate outside of code
-      Documentation
-          Actions
+  Clone
+<!DOCTYPE html>
+                Please
+  >
+          Report repository
+            >
             <input
-              Sign up
+     MIT license
   proxifier
       Enterprise
   openwrt
+          Issues
+      >
                 required
-    Contributors
+      <button
+          hidden
       Partners
-          >
-          Sign in
+        Automate any workflow
                 <li>
       Education
+          forks
   blocker
   sysmon
-<html
-  <head>
               <input
   windows
       Customer Stories
-    data-discussion-hovercards-enabled
-  <summary
       GitHub Skills
+        Search
         + 96 releases
-        Fund open source developers
   qemu
               required
   firewall
         Product
-    data-commit-hovercards-enabled
-              <details
-<!DOCTYPE html>
-<react-partial
-  >
->
+                <ul
+        <div
       DevOps
+          Pull requests
       Teams
-            prefetch-on-mouseover
+          stars
+        Use Git or checkout with SVN using the web URL.
         <li>
       Startups
+        7df0ded
           <ref-selector
         GitHub community articles
   wireshark
-    data-issue-and-pr-hovercards-enabled
-      <readme-toc>
+        >
   ncsi
         Solutions
+          <div
+  <details
+      <div>
         Open Source
       Topics
-  <li>
+            HTTPS
   dnscrypt
-            "
+          Insights
+        Write better code with AI
       Blog
         Block spying and tracking on Windows
       Trending
-                 autofocus
       Collections
+    >
   spy
-      DevSecOps
-              Sign in
+        Instant dev environments
+            GitHub CLI
+      <div
         crazy-max
-  Clone
-      All features
+      Documentation
+          Actions
   telemetry
       Learning Pathways
-            >
-        8ac58a7
         banbendalao
         No description or website provided.
   adguard
 <blockquote>
-    <span
-      <a
 的
         VeleSila
           Wiki
         <div>
-        765d013
           Projects
-        jdlingyu
-<hr>
-        只是 ad-wars 的帮助文档
-          Star
-     MIT license
-  blocklist
   blocklists
-      stars
-        A blocklist to protect users against untrustworthy sites.
-  adblock-list
-      watching
+        No packages published <br>
+                  "
+    Contributors
+        Host and manage packages
   list
-    >
-    Packages
+        Find and fix vulnerabilities
   hostsfile
   pihole-blocklists
-  adblocker-lists
-        Readme
+      <readme-toc>
   hosts
-  pihole
-        durablenapkin
+  <li>
+    <span
+        7aa339b
                       commits
+        Provide feedback
+            "
+  <summary
+  blocklist
+                 autofocus
+        A blocklist to protect users against untrustworthy sites.
+  adblock-list
+  <div
+    Packages
+        Saved searches
+  adblocker-lists
+              Search syntax tips
+              <details
+        Collaborate outside of code
+<react-partial
+      All features
+  pihole
+>
+        durablenapkin
+<tab-container>
+      <a
+        jdlingyu
+<hr>
+        e525471
+        只是 ad-wars 的帮助文档
 星标
 notrack-blocklists
 使用 SSH 克隆
@@ -635,12 +636,6 @@ Banner468x60
 ||irs01.
 ||saxs.sina.
 ||adsame.
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||log*-applog-*.tiktokv.com^
-||analytics.ticketmaster.
 ||adx.
 ||adx-
 ||adsfs.
@@ -689,6 +684,7 @@ getAds|
 ||ads-
 piao.js|
 oHead6205.appendChild( oScript6205);
+||ad-
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||adsence.
@@ -698,10 +694,16 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-            }
-        <noscript>
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||solutions.|pages.indigovision.com^
+||stats.zone-annuaire.
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||log*-applog-*.tiktokv.com^
+||analytics.ticketmaster.
     <head>
             function do_onload() {
+            }
+        <noscript>
 ||apple.com-*.live^
 ||imgpfx.arenavision.
 ||allsportsflix.*^
