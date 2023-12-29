@@ -49,7 +49,7 @@
 
    <li><a href="https://adrules.top/dns.txt">yhosts</a></li>
    <li><a href="https://adrules.top/hosts.txt">yhosts</a></li>
-
+   <li><a href="https://raw.githubusercontent.com/neodevpro/neodevhost/master/host">yhosts</a></li>
 
   
     # 自用添加↓
