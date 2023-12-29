@@ -30,26 +30,6 @@
     <li><a href="https://gitlab.com/quidsup/notrack-blocklists">NoTrack Tracker Blocklist</a></li> 
     <li><a href="https://gitlab.com/cats-team/adrules/">AdRules(AdGuard Full List)</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">AdGuard Base</a></li>
-    <li><a href="https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all">10007_auto</a></li>
-    <li><a href="https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/hosts">小贝塔</a></li>
-    <li><a href="https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt">yhosts</a></li>
-    <li><a href="https://github.com/Potterli20/file/releases/download/github-hosts/gfw-hosts.txt">yhosts</a></li>
-    <li><a href="https://github.com/Potterli20/file/releases/download/github-hosts/bilibili-hosts.txt">yhosts</a></li>
-    <li><a href="https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adblock.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt">yhosts</a></li>
-    <li><a href="https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt">yhosts</a></li>
-
-   <li><a href="https://adrules.top/dns.txt">yhosts</a></li>
-   <li><a href="https://adrules.top/hosts.txt">yhosts</a></li>
-   <li><a href="https://raw.githubusercontent.com/neodevpro/neodevhost/master/host">yhosts</a></li>
 
   
     # 自用添加↓
