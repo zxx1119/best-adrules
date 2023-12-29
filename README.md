@@ -1,7 +1,7 @@
 <div align="center">
-<h1>AdGuard Rule</h1>
+<h1>Best-Adrules</h1>
   <p>
-    一个简易的Java程序，用于合并与更新 AdGuard 过滤规则
+    best-adrules，关圣云®自行整理优秀的规则，合并去重优秀上游订阅。关圣云®DNS，一个人人可加入的公益去广告dns团队。 官网https://down.newlover.cn 官方微信群及QQ群见官网公布 捐赠，或者提供服务器均可加入“关圣云®爱发电”团队。 由于目前网络上发布的规则众多，逐个添加难免有重复的，而且不方便。 
 </p>
 </div>
 
@@ -16,7 +16,6 @@
 <details>
 <summary>点击查看</summary>
 <ul>
-    <li><a href="https://github.com/hoshsadiq/adblock-nocoin-list/">adblock-nocoin-list</a></li>
     <li><a href="https://github.com/durablenapkin/scamblocklist">Scam Blocklist</a></li>
     <li><a href="https://someonewhocares.org/hosts/zero/hosts">Dan Pollock's List</a></li>
     <li><a href="https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt">AdGuard DNS filter</a></li>
@@ -31,6 +30,28 @@
     <li><a href="https://gitlab.com/quidsup/notrack-blocklists">NoTrack Tracker Blocklist</a></li> 
     <li><a href="https://gitlab.com/cats-team/adrules/">AdRules(AdGuard Full List)</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">AdGuard Base</a></li>
+    <li><a href="https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all">10007_auto</a></li>
+    <li><a href="https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/hosts">小贝塔</a></li>
+    <li><a href="https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt">yhosts</a></li>
+    <li><a href="https://github.com/Potterli20/file/releases/download/github-hosts/gfw-hosts.txt">yhosts</a></li>
+    <li><a href="https://github.com/Potterli20/file/releases/download/github-hosts/bilibili-hosts.txt">yhosts</a></li>
+    <li><a href="https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adblock.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt">yhosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt">yhosts</a></li>
+
+   <li><a href="https://adrules.top/dns.txt">yhosts</a></li>
+   <li><a href="https://adrules.top/hosts.txt">yhosts</a></li>
+
+
+  
     # 自用添加↓
     <li><a href="https://anti-ad.net/easylist.txt">anti-AD</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt">AdGuard CNAME 伪装跟踪器列表</a></li>
