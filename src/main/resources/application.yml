@@ -43,7 +43,7 @@ application:
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'#>yhosts
       - 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt'#>yhosts
       - 'https://adrules.top/dns.txt'#>yhosts
-      - 'https://adrules.top/hosts.txt'#>yhosts
+      #- 'https://adrules.top/hosts.txt'#>yhosts
       - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/host'#>yhosts
       #自用添加↓
       - 'https://anti-ad.net/easylist.txt' #name: anti-AD
