@@ -22,6 +22,7 @@ application:
       #自用添加↓
       - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt' #name: GOODBYEADS
       - 'https://raw.hellogithub.com/hosts' #name: github520
+      - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'#name:秋风
       #KoolProxy规则
       #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/koolproxy.txt' #name:静态白名单规则
       - 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt' #name:每日规则
