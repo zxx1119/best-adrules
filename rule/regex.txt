@@ -1,4 +1,4 @@
-# Update time: 2023-12-30 09:30:17
+# Update time: 2023-12-30 09:45:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,165 +47,167 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
-      stars
-      Enterprise
+          Code
       Manage cookies
-      >
-    Contributors
-      <button
+          Issues
           hidden
                       commit
-      Partners
         Automate any workflow
+          Sign in
                 <li>
-      Education
+          forks
+    Download ZIP
 <html
   <head>
+              <input
+    <div>
         Provide feedback
-      Customer Stories
         Search
       <span>
         Fund open source developers
-      watching
-  <div
-    Packages
+    Open with GitHub Desktop
               Search syntax tips
         Product
-    You can’t perform that action at this time.
 <!DOCTYPE html>
+<react-partial
                 <ul
         <div
+                Please
   >
-      DevOps
-          Report repository
-      Teams
+>
+          Pull requests
 <tab-container>
+          stars
             prefetch-on-mouseover
-        No packages published <br>
-                  "
+        Use Git or checkout with SVN using the web URL.
+                to use Codespaces.
+        Host and manage packages
       Do not share my personal information
-      Startups
+          Security
           Latest
-        GitHub community articles
+      Work fast with our official CLI.
         >
-      forks
-          <div
+  <details
       <div>
-        Open Source
-      Topics
             HTTPS
-            "
-      Trending
-      Collections
-    Releases
+          Star
+          Insights
     Failed to load latest commit information.
+        Plan and track work
         o0HalfLife0o
+        Instant dev environments
             GitHub CLI
-      DevSecOps
       <div
-        Readme
   <cookie-consent-link>
         + 1 release
   Clone
-      Learning Pathways
-          Code
-  blocklists
-        Use Git or checkout with SVN using the web URL.
-          Issues
-                required
-          Security
-  list
-  hostsfile
-  pihole-blocklists
-          >
-          <ref-selector
-      Work fast with our official CLI.
-      <readme-toc>
-    <div>
-  hosts
-  <details
-    <span
-        7aa339b
-          Insights
-  <summary
-  blocklist
-                 autofocus
-        A blocklist to protect users against untrustworthy sites.
-  adblock-list
-              required
-  adblocker-lists
-              <details
           Actions
-  pihole
-          Pull requests
-        durablenapkin
-      <a
             <input
               Sign up
      MIT license
-  proxifier
-  openwrt
-          Sign in
-          forks
-  blocker
-  sysmon
-    Download ZIP
+  blocklists
+      stars
+      Enterprise
+                required
+    Contributors
+  list
               <input
-  windows
+  hosts
+    <span
+      Customer Stories
     data-discussion-hovercards-enabled
-      GitHub Skills
-        + 96 releases
-  qemu
+  <summary
+        Fund open source developers
+        A blocklist to protect users against untrustworthy sites.
+      watching
+              required
+    Packages
         Manage code changes
         Saved searches
-  firewall
-    Open with GitHub Desktop
     data-commit-hovercards-enabled
-<react-partial
-                Please
->
-          stars
-                to use Codespaces.
-        Host and manage packages
+    You can’t perform that action at this time.
+              <details
+  pihole
+          Report repository
+      Teams
+        No packages published <br>
+                  "
+      Startups
+  hostsfile
+  pihole-blocklists
+    data-issue-and-pr-hovercards-enabled
+      <readme-toc>
+      forks
+          <div
+  <li>
+        7aa339b
+                      commits
+        Write better code with AI
+  blocklist
+    Releases
+  adblock-list
+    >
+  adblocker-lists
+      DevSecOps
+              Sign in
+        Readme
+      All features
+      Learning Pathways
+            >
+        durablenapkin
+      <a
+  proxifier
+  openwrt
+      >
+      <button
         <li>
         7df0ded
         Find and fix vulnerabilities
+      Partners
+          >
+          <ref-selector
+        GitHub community articles
   wireshark
-    data-issue-and-pr-hovercards-enabled
+      Education
+  blocker
+  sysmon
   ncsi
         Solutions
-  <li>
-                      commits
+        Open Source
+      Topics
+  windows
   dnscrypt
-          Star
-        Write better code with AI
+            "
+      GitHub Skills
       Blog
         Block spying and tracking on Windows
-        Plan and track work
-    >
+      Trending
+                 autofocus
+      Collections
+        + 96 releases
+  qemu
+  <div
   spy
-        Instant dev environments
-              Sign in
+  firewall
         crazy-max
         Collaborate outside of code
       Documentation
-      All features
+      DevOps
   telemetry
-            >
 的
         VeleSila
           Wiki
         <div>
         765d013
           Projects
+        banbendalao
+        No description or website provided.
+  adguard
+<blockquote>
         jdlingyu
 <hr>
         e525471
         只是 ad-wars 的帮助文档
-<blockquote>
-        banbendalao
-        No description or website provided.
-  adguard
 星标
 notrack-blocklists
 使用 SSH 克隆
@@ -638,13 +640,6 @@ Banner468x60
 ||irs01.
 ||saxs.sina.
 ||adsame.
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||sdk.fra-*.braze.eu^
-||log*-applog-*.tiktokv.com^
-||analytics.ticketmaster.
 ||adx.
 ||adx-
 ||adsfs.
@@ -701,6 +696,14 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||solutions.|pages.indigovision.com^
+||stats.zone-annuaire.
+||matt.mercadolibre.
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||sdk.fra-*.braze.eu^
+||log*-applog-*.tiktokv.com^
+||analytics.ticketmaster.
     <head>
             function do_onload() {
             }
@@ -720,7 +723,6 @@ rgmechanicsgames.com*VPN.exe
 ||centent.streamp1ay.
 ||a*.chajiaotong.com^
 ||da.hornbach.*^
-||matt.mercadolibre.
 ||anet*.tradedoubler.com^
 ||ow*.biqugego.com^
 ||play2.flashx.
