@@ -1,4 +1,4 @@
-# Update time: 2023-12-29 20:27:54
+# Update time: 2023-12-30 09:10:23
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -48,175 +48,178 @@
 # 每12小时同步一次、如有误杀、请手动解除
 
           Code
+     MIT license
+  blocklists
+      Manage cookies
+      >
+    Contributors
+      <button
+  list
+          hidden
+          forks
+    Download ZIP
+  hosts
+    <span
+  <summary
+        Search
+      <span>
+        A blocklist to protect users against untrustworthy sites.
+    Packages
+    Open with GitHub Desktop
+              Search syntax tips
+    You can’t perform that action at this time.
+              <details
+                <ul
+        <div
+                Please
+  pihole
+<tab-container>
+          stars
+        No packages published <br>
+        Use Git or checkout with SVN using the web URL.
+                to use Codespaces.
+                  "
+      Do not share my personal information
+  hostsfile
+  pihole-blocklists
+      Work fast with our official CLI.
+        >
+      <readme-toc>
+          <div
+        7aa339b
+                      commits
+            HTTPS
+          Star
+  blocklist
+  adblock-list
+    >
+  adblocker-lists
+            GitHub CLI
+      <div
+  <cookie-consent-link>
+  Clone
+        durablenapkin
+      <a
             prefetch-on-mouseover
               Sign up
       stars
-      Manage cookies
-                to use Codespaces.
-      Do not share my personal information
+          Issues
+      Startups
           Security
                       commit
+      Partners
           >
-          Sign in
           Latest
-    data-issue-and-pr-hovercards-enabled
-      Work fast with our official CLI.
-    Download ZIP
+        GitHub community articles
+      Education
 <html
-  <head>
+              <input
       forks
-    <div>
-          Star
-    data-discussion-hovercards-enabled
-      <span>
+        Open Source
+      Topics
+        Provide feedback
+      Customer Stories
+      Trending
+                 autofocus
+      Collections
         Fund open source developers
     Releases
     Failed to load latest commit information.
       watching
-        Plan and track work
         o0HalfLife0o
-        Manage code changes
-    Open with GitHub Desktop
+  <div
+        Saved searches
       DevSecOps
               Sign in
-    data-commit-hovercards-enabled
-    You can’t perform that action at this time.
         Readme
-  <cookie-consent-link>
         + 1 release
-  Clone
 <!DOCTYPE html>
-                Please
-  >
+          Actions
+      DevOps
+          Pull requests
           Report repository
-            >
+      Learning Pathways
             <input
-     MIT license
+              Sign up
   proxifier
       Enterprise
   openwrt
-          Issues
-      >
                 required
-      <button
-          hidden
-      Partners
         Automate any workflow
+          Sign in
                 <li>
-      Education
-          forks
   blocker
   sysmon
-              <input
+  <head>
+    <div>
   windows
-      Customer Stories
+    data-discussion-hovercards-enabled
       GitHub Skills
-        Search
         + 96 releases
   qemu
               required
+        Manage code changes
   firewall
         Product
-                <ul
-        <div
-      DevOps
-          Pull requests
+    data-commit-hovercards-enabled
+<react-partial
+  >
+>
       Teams
-          stars
-        Use Git or checkout with SVN using the web URL.
+        Host and manage packages
         <li>
-      Startups
         7df0ded
+        Find and fix vulnerabilities
           <ref-selector
-        GitHub community articles
   wireshark
-        >
+    data-issue-and-pr-hovercards-enabled
   ncsi
         Solutions
-          <div
   <details
       <div>
-        Open Source
-      Topics
-            HTTPS
+  <li>
   dnscrypt
           Insights
         Write better code with AI
+            "
       Blog
         Block spying and tracking on Windows
-      Trending
-      Collections
-    >
+                 autofocus
+        Plan and track work
   spy
         Instant dev environments
-            GitHub CLI
-      <div
         crazy-max
+        Collaborate outside of code
       Documentation
-          Actions
+      All features
   telemetry
-      Learning Pathways
-        banbendalao
-        No description or website provided.
-  adguard
-<blockquote>
+            >
 的
         VeleSila
           Wiki
         <div>
           Projects
-  blocklists
-        No packages published <br>
-                  "
-    Contributors
-        Host and manage packages
-  list
-        Find and fix vulnerabilities
-  hostsfile
-  pihole-blocklists
-      <readme-toc>
-  hosts
-  <li>
-    <span
-        7aa339b
-                      commits
-        Provide feedback
-            "
-  <summary
-  blocklist
-                 autofocus
-        A blocklist to protect users against untrustworthy sites.
-  adblock-list
-  <div
-    Packages
-        Saved searches
-  adblocker-lists
-              Search syntax tips
-              <details
-        Collaborate outside of code
-<react-partial
-      All features
-  pihole
->
-        durablenapkin
-<tab-container>
-      <a
+        8ac58a7
+        banbendalao
+        No description or website provided.
+  adguard
+<blockquote>
         jdlingyu
 <hr>
         e525471
         只是 ad-wars 的帮助文档
+A
 星标
-notrack-blocklists
 使用 SSH 克隆
 Visual Studio Code (HTTPS)
   }))
-N
   };
       })
 <ul>
 IntelliJ IDEA (SSH)
 Visual Studio Code (SSH)
 在您的IDE中打开
+AdRules
     })
 获取免费试用
 菜单
@@ -227,6 +230,7 @@ IntelliJ IDEA (HTTPS)
 查找文件
 if ('loading' in HTMLImageElement.prototype) {
     img.classList.add('js-lazy-loaded');
+1
     };
 代码
     img.classList.remove('lazy');
@@ -234,10 +238,9 @@ if ('loading' in HTMLImageElement.prototype) {
 <li>
   });
 }
+notrack-blocklists
+N
 42
-AdRules
-A
-1
 ||biz^
 ||fun^
 ||info^
@@ -540,7 +543,6 @@ analytics-*.aasaam.com
 ||livetracker.*.pangea-cms.com^
 ||stat.tiara.
 ||quangcao-*.epicdn.me^
-||fpb1.chinacar.
 ||rotator.
 ||bms*.adjarabet.com^
 ||analytics*.prezly.com^
@@ -551,6 +553,7 @@ analytics-*.aasaam.com
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||v*.sitecounter.site^
+！
 ||www**.zskwai.com^
 ||api-access.pangolin-sdk-toutiao*.com^
 ||pagead*.google.com^
@@ -579,7 +582,6 @@ analytics-*.aasaam.com
 ||142.91.159.
 ||p26.gejulm*.com^
 ||gtlpa*.com^
-||ads*.opensubtitles.org^
 ||widgets.*.webengage.com^
 ||zazgiyoh*.world^
 ||zabdybod*.club^
@@ -587,7 +589,6 @@ analytics-*.aasaam.com
 ||thezbpe5*.xyz^
 ||zazgbqg*.xyz^
 directtrack.*.js
-@@||cdn*.porn300.com^
 ||js.*2023*.xyz^
 @@||cdn-msp*.18comic.*^
 ||zbc6hye*.xyz^
@@ -608,6 +609,7 @@ directtrack.*.js
 ||ulog*.*^
 ||log*-normal-lq.toutiaoapi.com^
 ||ads*.zijieapi.com^
+||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -615,6 +617,7 @@ directtrack.*.js
 ||fapnado.*.php|
 ||spryptvqguhpwt^
 ||itechpost.com*adbk
+@@||cdn*.porn300.com^
 Banner468x60
 ||allyes.
 ||icast.
@@ -625,6 +628,7 @@ Banner468x60
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -657,7 +661,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -684,7 +687,6 @@ getAds|
 ||ads-
 piao.js|
 oHead6205.appendChild( oScript6205);
-||ad-
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||adsence.
@@ -718,6 +720,7 @@ rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
 ||centent.streamp1ay.
 ||a*.chajiaotong.com^
+||fpb1.chinacar.
 ||da.hornbach.*^
 ||matt.mercadolibre.
 ||anet*.tradedoubler.com^
@@ -778,7 +781,6 @@ rgmechanicsgames.com*VPN.exe
 ||pingfore*.*^
 ||mkto-*.com^
 ||stat.*.v-56.com^
-||targeting.*.arcpublishing.com^
 ||openx*.*^
 ||ablen*.tk^
 ||gg*.miguvideo.com^
