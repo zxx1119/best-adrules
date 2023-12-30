@@ -1,4 +1,4 @@
-# Update time: 2023-12-30 09:10:23
+# Update time: 2023-12-30 09:30:17
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,147 +47,145 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
-          Code
-     MIT license
-  blocklists
+      stars
+      Enterprise
       Manage cookies
       >
     Contributors
       <button
-  list
           hidden
-          forks
-    Download ZIP
-  hosts
-    <span
-  <summary
-        Search
-      <span>
-        A blocklist to protect users against untrustworthy sites.
-    Packages
-    Open with GitHub Desktop
-              Search syntax tips
-    You can’t perform that action at this time.
-              <details
-                <ul
-        <div
-                Please
-  pihole
-<tab-container>
-          stars
-        No packages published <br>
-        Use Git or checkout with SVN using the web URL.
-                to use Codespaces.
-                  "
-      Do not share my personal information
-  hostsfile
-  pihole-blocklists
-      Work fast with our official CLI.
-        >
-      <readme-toc>
-          <div
-        7aa339b
-                      commits
-            HTTPS
-          Star
-  blocklist
-  adblock-list
-    >
-  adblocker-lists
-            GitHub CLI
-      <div
-  <cookie-consent-link>
-  Clone
-        durablenapkin
-      <a
-            prefetch-on-mouseover
-              Sign up
-      stars
-          Issues
-      Startups
-          Security
                       commit
       Partners
-          >
-          Latest
-        GitHub community articles
+        Automate any workflow
+                <li>
       Education
 <html
-              <input
-      forks
-        Open Source
-      Topics
+  <head>
         Provide feedback
       Customer Stories
-      Trending
-                 autofocus
-      Collections
+        Search
+      <span>
         Fund open source developers
+      watching
+  <div
+    Packages
+              Search syntax tips
+        Product
+    You can’t perform that action at this time.
+<!DOCTYPE html>
+                <ul
+        <div
+  >
+      DevOps
+          Report repository
+      Teams
+<tab-container>
+            prefetch-on-mouseover
+        No packages published <br>
+                  "
+      Do not share my personal information
+      Startups
+          Latest
+        GitHub community articles
+        >
+      forks
+          <div
+      <div>
+        Open Source
+      Topics
+            HTTPS
+            "
+      Trending
+      Collections
     Releases
     Failed to load latest commit information.
-      watching
         o0HalfLife0o
-  <div
-        Saved searches
+            GitHub CLI
       DevSecOps
-              Sign in
+      <div
         Readme
+  <cookie-consent-link>
         + 1 release
-<!DOCTYPE html>
-          Actions
-      DevOps
-          Pull requests
-          Report repository
+  Clone
       Learning Pathways
+          Code
+  blocklists
+        Use Git or checkout with SVN using the web URL.
+          Issues
+                required
+          Security
+  list
+  hostsfile
+  pihole-blocklists
+          >
+          <ref-selector
+      Work fast with our official CLI.
+      <readme-toc>
+    <div>
+  hosts
+  <details
+    <span
+        7aa339b
+          Insights
+  <summary
+  blocklist
+                 autofocus
+        A blocklist to protect users against untrustworthy sites.
+  adblock-list
+              required
+  adblocker-lists
+              <details
+          Actions
+  pihole
+          Pull requests
+        durablenapkin
+      <a
             <input
               Sign up
+     MIT license
   proxifier
-      Enterprise
   openwrt
-                required
-        Automate any workflow
           Sign in
-                <li>
+          forks
   blocker
   sysmon
-  <head>
-    <div>
+    Download ZIP
+              <input
   windows
     data-discussion-hovercards-enabled
       GitHub Skills
         + 96 releases
   qemu
-              required
         Manage code changes
+        Saved searches
   firewall
-        Product
+    Open with GitHub Desktop
     data-commit-hovercards-enabled
 <react-partial
-  >
+                Please
 >
-      Teams
+          stars
+                to use Codespaces.
         Host and manage packages
         <li>
         7df0ded
         Find and fix vulnerabilities
-          <ref-selector
   wireshark
     data-issue-and-pr-hovercards-enabled
   ncsi
         Solutions
-  <details
-      <div>
   <li>
+                      commits
   dnscrypt
-          Insights
+          Star
         Write better code with AI
-            "
       Blog
         Block spying and tracking on Windows
-                 autofocus
         Plan and track work
+    >
   spy
         Instant dev environments
+              Sign in
         crazy-max
         Collaborate outside of code
       Documentation
@@ -198,28 +196,28 @@
         VeleSila
           Wiki
         <div>
+        765d013
           Projects
-        8ac58a7
-        banbendalao
-        No description or website provided.
-  adguard
-<blockquote>
         jdlingyu
 <hr>
         e525471
         只是 ad-wars 的帮助文档
-A
+<blockquote>
+        banbendalao
+        No description or website provided.
+  adguard
 星标
+notrack-blocklists
 使用 SSH 克隆
 Visual Studio Code (HTTPS)
   }))
+N
   };
       })
 <ul>
 IntelliJ IDEA (SSH)
 Visual Studio Code (SSH)
 在您的IDE中打开
-AdRules
     })
 获取免费试用
 菜单
@@ -230,7 +228,6 @@ IntelliJ IDEA (HTTPS)
 查找文件
 if ('loading' in HTMLImageElement.prototype) {
     img.classList.add('js-lazy-loaded');
-1
     };
 代码
     img.classList.remove('lazy');
@@ -238,9 +235,10 @@ if ('loading' in HTMLImageElement.prototype) {
 <li>
   });
 }
-notrack-blocklists
-N
 42
+AdRules
+A
+1
 ||biz^
 ||fun^
 ||info^
@@ -485,7 +483,6 @@ analytics-*.aasaam.com
 ||t*.zcvh.net^
 ||collector.hamsterix.
 ||log*.vietnamplus.vn^
-||sdk.fra-*.braze.eu^
 ||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
@@ -543,6 +540,7 @@ analytics-*.aasaam.com
 ||livetracker.*.pangea-cms.com^
 ||stat.tiara.
 ||quangcao-*.epicdn.me^
+||fpb1.chinacar.
 ||rotator.
 ||bms*.adjarabet.com^
 ||analytics*.prezly.com^
@@ -640,6 +638,13 @@ Banner468x60
 ||irs01.
 ||saxs.sina.
 ||adsame.
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||solutions.|pages.indigovision.com^
+||stats.zone-annuaire.
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||sdk.fra-*.braze.eu^
+||log*-applog-*.tiktokv.com^
+||analytics.ticketmaster.
 ||adx.
 ||adx-
 ||adsfs.
@@ -696,12 +701,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||log*-applog-*.tiktokv.com^
-||analytics.ticketmaster.
     <head>
             function do_onload() {
             }
@@ -720,7 +719,6 @@ rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
 ||centent.streamp1ay.
 ||a*.chajiaotong.com^
-||fpb1.chinacar.
 ||da.hornbach.*^
 ||matt.mercadolibre.
 ||anet*.tradedoubler.com^
